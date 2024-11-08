@@ -1,1 +1,2 @@
-# cara-menyisipakan-jpg-ke-shell
+ubah file jpg/png ke ico
+''' httpss '''
